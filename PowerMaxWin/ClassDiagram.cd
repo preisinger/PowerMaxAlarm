@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyPowerMax">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAAAAA=</HashCode>
+      <FileName>PowerMax.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOutput" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleOutput" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerMaxAlarm">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SoAABEACwAIXSCjMAIgiPkGSUCoGYhKAEEajA6wgCMQ=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PlinkCommand" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAIIAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlinkBuffer" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ZoneState" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAABAAACAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Zone" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgIIAACACEAgABAAAAAAAAIgA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PmQueueItem" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAABAAQAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PmConfig" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAgAKAMAAAABAAAAgCAAAAIQAAAjAAgCEgAAEEA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="PmaxCommand" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAkAACAAEgEAAIBAAAJQAAAAAAgAAAAAAgAGA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZoneEvent" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAABAAAIgAAAAIEAAAAAAAQEAECAkAAkAAQCAAEAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SystemStatus" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAQIQIgAAAAAAAAAAICAAAAAAAAFAAAAIAQAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PmAckType" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\paulr.PROCESSOR\source\repos\PowerMaxAlarm\libraries\PMax\pmax.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
